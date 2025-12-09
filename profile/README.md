@@ -11,4 +11,3 @@ Bem-vindo à organização focada em soluções LLM para ajudar motoristas a ent
 
 _Façamos manutenção automotiva mais clara e acessível para todo mundo._
 
-Se quiser, me diga o nome exato da organização e posso ajustar títulos/links.
